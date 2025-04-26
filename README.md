@@ -1,4 +1,5 @@
 #📊 Marketing Analytics Portfolio Project
+
 Project Overview
 This project showcases a complete data analytics workflow applied to a marketing dataset, leveraging MySQL, Python, and Power BI. The objective was to analyse customer engagement, conversion rates, and feedback trends to deliver actionable insights for business improvement.
 

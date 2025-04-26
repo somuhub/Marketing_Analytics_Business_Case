@@ -41,8 +41,30 @@ This project showcases a complete data analytics workflow applied to a marketing
 - Enhance customer engagement by optimising content and interaction points.
 - Improve customer satisfaction by addressing feedback proactively.
 
+
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![SQL](https://img.shields.io/badge/SQL-Server-informational)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
 ![Portfolio%20Project](https://img.shields.io/badge/Portfolio-Project-important)
+
+
+![CR](https://github.com/user-attachments/assets/0e86b27a-825d-4680-b969-295b2d34c441)
+
+
+
+
+![review](https://github.com/user-attachments/assets/e6b1244d-1e6f-4f89-bbb3-9526fd938835)
+
+
+
+![overview](https://github.com/user-attachments/assets/6ee31041-bd79-4e88-abee-08b5844a106f)
+
+
+
+![media](https://github.com/user-attachments/assets/0b5da360-d30a-49e5-9605-c39c3a6474c7)
+
+
+
+

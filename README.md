@@ -51,28 +51,16 @@ This project showcases a complete data analytics workflow applied to a marketing
 
 
 
-![overview](https://github.com/user-attachments/assets/026646ff-40c4-448c-874e-da50bdec03c4)
 
 
 
 
 
 
-![media](https://github.com/user-attachments/assets/4d7bc4b7-ca95-4996-94cd-31ae39192a76)
+https://github.com/user-attachments/assets/2605e75b-4e0c-4373-8f23-8f183b98203a
 
 
 
-
-
-
-![CR](https://github.com/user-attachments/assets/66d48f2a-e6ad-48a7-ae44-7dd3efdae32d)
-
-
-
-
-
-
-![review](https://github.com/user-attachments/assets/ea314b57-e0d1-49de-a48f-f625f99e7294)
 
 
 

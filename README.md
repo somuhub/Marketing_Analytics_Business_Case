@@ -50,20 +50,34 @@ This project showcases a complete data analytics workflow applied to a marketing
 ![Portfolio%20Project](https://img.shields.io/badge/Portfolio-Project-important)
 
 
-![CR](https://github.com/user-attachments/assets/0e86b27a-825d-4680-b969-295b2d34c441)
+
+![overview](https://github.com/user-attachments/assets/026646ff-40c4-448c-874e-da50bdec03c4)
 
 
 
 
-![review](https://github.com/user-attachments/assets/e6b1244d-1e6f-4f89-bbb3-9526fd938835)
+
+
+![media](https://github.com/user-attachments/assets/4d7bc4b7-ca95-4996-94cd-31ae39192a76)
 
 
 
-![overview](https://github.com/user-attachments/assets/6ee31041-bd79-4e88-abee-08b5844a106f)
 
 
 
-![media](https://github.com/user-attachments/assets/0b5da360-d30a-49e5-9605-c39c3a6474c7)
+![CR](https://github.com/user-attachments/assets/66d48f2a-e6ad-48a7-ae44-7dd3efdae32d)
+
+
+
+
+
+
+![review](https://github.com/user-attachments/assets/ea314b57-e0d1-49de-a48f-f625f99e7294)
+
+
+
+
+
 
 
 
